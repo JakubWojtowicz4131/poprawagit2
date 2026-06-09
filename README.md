@@ -1,1 +1,2 @@
 # poprawagit2
+Komenda
